@@ -1,0 +1,13 @@
+body {
+  background-color: #042743;
+}
+
+.box-margin {
+  margin: 0 20vw;
+}
+
+@media screen and (max-width: 800px) {
+  .box-margin {
+    margin: 0;
+  }
+}
